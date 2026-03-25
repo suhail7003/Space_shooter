@@ -26,8 +26,8 @@ A high-intensity arcade-style game built with Python and Pygame. Survive an endl
 
 ```
 space-shooter/
-├── main.py          # Core game logic
-└── assets/          # Sprites, fonts, sounds
+├── game_2_720p.py          # Core game logic
+└── yt assets/space shooter          # Sprites, fonts, sounds
 ```
 
 ---
